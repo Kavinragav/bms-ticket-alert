@@ -5,7 +5,7 @@
   "description": "Telegram alert bot for BookMyShow ticket availability",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node index.js"
     
   },
   "dependencies": {
