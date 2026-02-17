@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "postinstall": "npx playwright install --with-deps chromium"
+    
   },
   "dependencies": {
   "dotenv": "^17.3.1",
